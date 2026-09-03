@@ -1,4 +1,4 @@
-# 🌏 Climate Justice: Nepal's Flood Crisis vs Its Tiny Carbon Footprint
+                                                                                                                                                                       ## 🌏 Climate Justice: Nepal's Flood Crisis vs Its Tiny Carbon Footprint
 
 Analyzing how Nepal — one of the world's lowest CO2 emitters — 
 bears the devastating human cost of climate change it didn't cause.
@@ -97,6 +97,3 @@ Data Science Student @ Tribhuwan University, Nepal 🇳🇵
 
 ---
 
-## 🔜 Next Project
-
-**SQL-based Data Analysis Project**
